@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pr</string>
+    <string name="app_login">Вход</string>
+    <string name="app_reg">Регистрация</string>
+    <string name="title_activity_navi">MainActivity</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_recipes">Рецепты</string>
+    <string name="title_account">Мой аккаунт</string>
+
+</resources>
